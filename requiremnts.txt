@@ -1,0 +1,6 @@
+langchain_huggingface
+langchain
+langchain_core
+pydantic
+fastapi
+streamlit
